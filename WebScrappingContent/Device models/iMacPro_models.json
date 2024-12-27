@@ -1,0 +1,58 @@
+[
+  {
+    "name": "imac-pro-eight-core-3.2-xeon-27-inch-late-2017-specs",
+    "link": "https://everymac.com/systems/apple/imac-pro/specs/imac-pro-eight-core-3.2-xeon-27-inch-late-2017-specs.html",
+    "intro": "December 14, 2017*",
+    "disc": "August 4, 2020",
+    "order": "MQ2Y2LL/A",
+    "model": "A1862 (EMC 3144)",
+    "family": "iMac Pro, Late 2017",
+    "ident": "iMacPro1,1",
+    "ram": "32 GB",
+    "vram": "8 GB*",
+    "storage": "1 TB SSD",
+    "optical": "None*"
+  },
+  {
+    "name": "imac-pro-ten-core-3.0-xeon-27-inch-late-2017-specs",
+    "link": "https://everymac.com/systems/apple/imac-pro/specs/imac-pro-ten-core-3.0-xeon-27-inch-late-2017-specs.html",
+    "intro": "December 14, 2017*",
+    "disc": "March 19, 2021**",
+    "order": "MHLV3LL/A*",
+    "model": "A1862 (EMC 3144)",
+    "family": "iMac Pro, Late 2017",
+    "ident": "iMacPro1,1",
+    "ram": "32 GB",
+    "vram": "8 GB*",
+    "storage": "1 TB SSD",
+    "optical": "None*"
+  },
+  {
+    "name": "imac-pro-14-core-2.5-xeon-27-inch-late-2017-specs",
+    "link": "https://everymac.com/systems/apple/imac-pro/specs/imac-pro-14-core-2.5-xeon-27-inch-late-2017-specs.html",
+    "intro": "December 14, 2017*",
+    "disc": "March 5, 2021",
+    "order": "BTO/CTO",
+    "model": "A1862 (EMC 3144)",
+    "family": "iMac Pro, Late 2017",
+    "ident": "iMacPro1,1",
+    "ram": "32 GB",
+    "vram": "8 GB*",
+    "storage": "1 TB SSD",
+    "optical": "None*"
+  },
+  {
+    "name": "imac-pro-18-core-2.3-xeon-27-inch-late-2017-specs",
+    "link": "https://everymac.com/systems/apple/imac-pro/specs/imac-pro-18-core-2.3-xeon-27-inch-late-2017-specs.html",
+    "intro": "December 14, 2017*",
+    "disc": "March 5, 2021",
+    "order": "BTO/CTO",
+    "model": "A1862 (EMC 3144)",
+    "family": "iMac Pro, Late 2017",
+    "ident": "iMacPro1,1",
+    "ram": "32 GB",
+    "vram": "8 GB*",
+    "storage": "1 TB SSD",
+    "optical": "None*"
+  }
+]

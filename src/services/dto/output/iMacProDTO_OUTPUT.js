@@ -7,7 +7,7 @@ class IMacProOutputDTO {
       orderNumber,
       model,
       family,
-      identifier,
+      ident,
       ram,
       vram,
       storage,
@@ -20,7 +20,7 @@ class IMacProOutputDTO {
       this.orderNumber = orderNumber; // "Order"
       this.model = model;
       this.family = family;
-      this.identifier = identifier; // "ID"
+      this.ident = ident; // "ID"
       this.ram = ram; // "RAM"
       this.vram = vram; // "VRAM"
       this.storage = storage;

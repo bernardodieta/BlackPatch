@@ -1,24 +1,24 @@
-class WatchOutputDTO {
+export class IWatchOutputDTO {
     constructor({
         name,
         link,
-        introductionDate,
-        discontinuationDate,
-        orderNumber,
+        intro,
+        disc,
+        order,
         model,
         family,
-        identifier,
+        ident,
         storage,
         batteryLife
     }) {
         this.name = name;
         this.link = link;
-        this.introductionDate = introductionDate;
-        this.discontinuationDate = discontinuationDate;
-        this.orderNumber = orderNumber;
+        this.intro = intro;
+        this.disc = disc;
+        this.order = order;
         this.model = model;
         this.family = family;
-        this.identifier = identifier;
+        this.ident = ident;
         this.storage = storage;
         this.batteryLife = batteryLife;
     }

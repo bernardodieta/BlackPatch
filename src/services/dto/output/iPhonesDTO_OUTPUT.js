@@ -1,26 +1,26 @@
-class IPhoneOutputDTO {
-    constructor({
-      name,
-      link,
-      introductionDate,
-      discontinuationDate,
-      orderNumber,
-      model,
-      family,
-      identifier,
-      voiceUse,
-      musicUse
-    }) {
-      this.name = name;
-      this.link = link;
-      this.introductionDate = introductionDate; // "Intro."
-      this.discontinuationDate = discontinuationDate; // "Disc."
-      this.orderNumber = orderNumber; // "Order"
-      this.model = model;
-      this.family = family;
-      this.identifier = identifier; // "ID"
-      this.voiceUse = voiceUse; // "Voice Use:"
-      this.musicUse = musicUse; // "Music Use:"
-    }
+export class IPhoneOutputDTO {
+  constructor({
+    name,
+    link,
+    intro,
+    disc,
+    order,
+    model,
+    family,
+    ident,
+    voice_use,
+    music_use
+  }) {
+
+    this.name = name;
+    this.link = link;
+    this.intro = intro;
+    this.disc = disc;
+    this.order = order;
+    this.model = model;
+    this.family = family;
+    this.ident = ident;
+    this.voice_use = voice_use;
+    this.music_use = music_use;
   }
-  
+}

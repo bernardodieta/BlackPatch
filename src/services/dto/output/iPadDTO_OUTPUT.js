@@ -1,25 +1,25 @@
-class IPadAirOutputDTO {
+export class IPadAirOutputDTO {
     constructor({
       name,
       link,
-      introductionDate,
-      discontinuationDate,
-      orderNumber,
+      intro,
+      disc,
+      order,
       model,
       family,
-      identifier,
+      ident,
       network,
       batteryLife
     }) {
       this.name = name;
       this.link = link;
-      this.introductionDate = introductionDate; // "Intro."
-      this.discontinuationDate = discontinuationDate; // "Disc."
-      this.orderNumber = orderNumber; // "Order"
+      this.intro = intro; 
+      this.disc = disc; 
+      this.order = order; 
       this.model = model;
       this.family = family;
-      this.identifier = identifier; // "ID"
-      this.network = network; // "Network:"
-      this.batteryLife = batteryLife; // "Battery Life:"
+      this.ident = ident; 
+      this.network = network;
+      this.batteryLife = batteryLife; 
     }
   }

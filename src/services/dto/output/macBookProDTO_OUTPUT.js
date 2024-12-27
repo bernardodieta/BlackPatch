@@ -1,13 +1,13 @@
-class MacBookProOutputDTO {
+export class MacBookProOutputDTO {
     constructor({
       name,
       link,
-      introductionDate,
-      discontinuationDate,
-      orderNumber,
+      intro,
+      disc,
+      order,
       model,
       family,
-      identifier,
+      ident,
       ram,
       vram,
       storage,
@@ -15,15 +15,15 @@ class MacBookProOutputDTO {
     }) {
       this.name = name;
       this.link = link;
-      this.introductionDate = introductionDate; // "Intro."
-      this.discontinuationDate = discontinuationDate; // "Disc."
-      this.orderNumber = orderNumber; // "Order"
+      this.intro = intro; 
+      this.disc = disc; 
+      this.order = order; 
       this.model = model;
       this.family = family;
-      this.identifier = identifier; // "ID"
-      this.ram = ram; // "RAM"
-      this.vram = vram; // "VRAM"
-      this.storage = storage; // "Storage"
-      this.optical = optical; // "Optical"
+      this.ident = ident; 
+      this.ram = ram; 
+      this.vram = vram; 
+      this.storage = storage; 
+      this.optical = optical;
     }
   }
